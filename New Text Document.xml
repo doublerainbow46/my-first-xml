@@ -1,0 +1,27 @@
+<menu>
+	<food>
+		<name>Pizza</name>
+		<price>20</price>
+		<calorie>560</calorie>
+	</food>
+	<food>
+		<name>Coffee</name>
+		<price>8</price>
+		<calorie>120</calorie>
+	</food>
+	<food>
+		<name>Dim Sum</name>
+		<price>12</price>
+		<calorie>180</calorie>
+	</food>
+	<food>
+		<name>Hamburger</name>
+		<price>25</price>
+		<calorie>490</calorie>
+	</food>
+	<food>
+		<name>Pad Thai</name>
+		<price>30</price>
+		<calorie>330</calorie>
+	</food>
+</menu>
